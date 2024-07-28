@@ -1,0 +1,750 @@
+{
+	"asset":
+	{
+		"version": "2.0",
+		"generator": "Unreal Engine 5.4.2"
+	},
+	"scene": 0,
+	"accessors": [
+		{
+			"bufferView": 0,
+			"count": 975,
+			"type": "SCALAR",
+			"componentType": 5121
+		},
+		{
+			"bufferView": 1,
+			"count": 191,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -20.9652882, -0.0194485784, -19.5412159 ],
+			"max": [ 20.9914951, 0.645177305, 20.2725487 ]
+		},
+		{
+			"bufferView": 2,
+			"count": 191,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 3,
+			"count": 191,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 4,
+			"count": 191,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 5,
+			"count": 191,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 6,
+			"count": 945,
+			"type": "SCALAR",
+			"componentType": 5123
+		},
+		{
+			"bufferView": 7,
+			"count": 279,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -21.2656612, 0.526436329, -19.8015842 ],
+			"max": [ 21.2482758, 42.4493294, 20.7174778 ]
+		},
+		{
+			"bufferView": 8,
+			"count": 279,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 9,
+			"count": 279,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 10,
+			"count": 279,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 11,
+			"count": 279,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 12,
+			"count": 1485,
+			"type": "SCALAR",
+			"componentType": 5123
+		},
+		{
+			"bufferView": 13,
+			"count": 670,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -16.5996971, 32.467514, -16.3377285 ],
+			"max": [ -14.0035458, 37.6458054, -15.1680956 ]
+		},
+		{
+			"bufferView": 14,
+			"count": 670,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 15,
+			"count": 670,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 16,
+			"count": 670,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 17,
+			"count": 670,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 18,
+			"count": 1398,
+			"type": "SCALAR",
+			"componentType": 5123
+		},
+		{
+			"bufferView": 19,
+			"count": 278,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -25.3722649, 40.5061913, -34.7252541 ],
+			"max": [ 25.3333511, 86.8308716, 21.4340897 ]
+		},
+		{
+			"bufferView": 20,
+			"count": 278,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 21,
+			"count": 278,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 22,
+			"count": 278,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 23,
+			"count": 278,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 24,
+			"count": 1524,
+			"type": "SCALAR",
+			"componentType": 5123
+		},
+		{
+			"bufferView": 25,
+			"count": 300,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -26.6157036, 40.6152153, -34.8908157 ],
+			"max": [ 26.5800686, 86.0419006, 21.3407917 ]
+		},
+		{
+			"bufferView": 26,
+			"count": 300,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 27,
+			"count": 300,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 28,
+			"count": 300,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 29,
+			"count": 300,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 30,
+			"count": 1536,
+			"type": "SCALAR",
+			"componentType": 5123
+		},
+		{
+			"bufferView": 31,
+			"count": 318,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -23.5627327, 40.4721947, -17.9166584 ],
+			"max": [ 23.3219814, 46.7163696, 22.0154705 ]
+		},
+		{
+			"bufferView": 32,
+			"count": 318,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 33,
+			"count": 318,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 34,
+			"count": 318,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 35,
+			"count": 318,
+			"type": "VEC2",
+			"componentType": 5126
+		}
+	],
+	"buffers": [
+		{
+			"uri": "ChairJuly24-GLTF.bin",
+			"byteLength": 128772
+		}
+	],
+	"bufferViews": [
+		{
+			"buffer": 0,
+			"byteLength": 975,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 2292,
+			"byteOffset": 976,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 2292,
+			"byteOffset": 3268,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 3056,
+			"byteOffset": 5560,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 1528,
+			"byteOffset": 8616,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 1528,
+			"byteOffset": 10144,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 1890,
+			"byteOffset": 11672,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 3348,
+			"byteOffset": 13564,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 3348,
+			"byteOffset": 16912,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 4464,
+			"byteOffset": 20260,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 2232,
+			"byteOffset": 24724,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 2232,
+			"byteOffset": 26956,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 2970,
+			"byteOffset": 29188,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 8040,
+			"byteOffset": 32160,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 8040,
+			"byteOffset": 40200,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 10720,
+			"byteOffset": 48240,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 5360,
+			"byteOffset": 58960,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 5360,
+			"byteOffset": 64320,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 2796,
+			"byteOffset": 69680,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 3336,
+			"byteOffset": 72476,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 3336,
+			"byteOffset": 75812,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 4448,
+			"byteOffset": 79148,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 2224,
+			"byteOffset": 83596,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 2224,
+			"byteOffset": 85820,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 3048,
+			"byteOffset": 88044,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 3600,
+			"byteOffset": 91092,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 3600,
+			"byteOffset": 94692,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 4800,
+			"byteOffset": 98292,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 2400,
+			"byteOffset": 103092,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 2400,
+			"byteOffset": 105492,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 3072,
+			"byteOffset": 107892,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 3816,
+			"byteOffset": 110964,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 3816,
+			"byteOffset": 114780,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 5088,
+			"byteOffset": 118596,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 2544,
+			"byteOffset": 123684,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 2544,
+			"byteOffset": 126228,
+			"target": 34962
+		}
+	],
+	"images": [
+		{
+			"uri": "WorldGridMaterial_BaseColor.png"
+		},
+		{
+			"uri": "WorldGridMaterial_MetallicRoughness.png"
+		},
+		{
+			"uri": "WorldGridMaterial_Normal.png"
+		},
+		{
+			"uri": "T_GLTF_M_Wood_Walnut_BaseColor.png"
+		},
+		{
+			"uri": "T_GLTF_M_Wood_Walnut_MetallicRoughness.png"
+		},
+		{
+			"uri": "T_Wood_Walnut_N.png"
+		},
+		{
+			"uri": "T_GLTF_M_Metal_Gold_BaseColor.png"
+		},
+		{
+			"uri": "T_GLTF_M_Metal_Gold_MetallicRoughness.png"
+		},
+		{
+			"uri": "T_Metal_Gold_N.png"
+		}
+	],
+	"materials": [
+		{
+			"name": "WorldGridMaterial",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 0
+				},
+				"metallicRoughnessTexture":
+				{
+					"index": 1
+				}
+			},
+			"normalTexture":
+			{
+				"index": 2
+			}
+		},
+		{
+			"name": "MI_GLTF_M_Wood_Walnut",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 3
+				},
+				"metallicRoughnessTexture":
+				{
+					"index": 4
+				}
+			},
+			"normalTexture":
+			{
+				"index": 5
+			}
+		},
+		{
+			"name": "MI_GLTF_M_Basic_Wall",
+			"pbrMetallicRoughness":
+			{
+				"baseColorFactor": [ 0.810344994, 0.787877977, 0.654682994, 1 ],
+				"metallicFactor": 0,
+				"roughnessFactor": 0.640708029
+			}
+		},
+		{
+			"name": "MI_GLTF_M_Metal_Gold",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 6
+				},
+				"metallicRoughnessTexture":
+				{
+					"index": 7
+				}
+			},
+			"normalTexture":
+			{
+				"index": 8
+			}
+		}
+	],
+	"meshes": [
+		{
+			"name": "Breira_Chair_Breira_Chair_-_Bottom_Leg",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 1,
+						"NORMAL": 2,
+						"TANGENT": 3,
+						"TEXCOORD_0": 4,
+						"TEXCOORD_1": 5
+					},
+					"indices": 0,
+					"material": 0
+				}
+			]
+		},
+		{
+			"name": "Breira_Chair_Breira_Chair_-_Leg",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 7,
+						"NORMAL": 8,
+						"TANGENT": 9,
+						"TEXCOORD_0": 10,
+						"TEXCOORD_1": 11
+					},
+					"indices": 6,
+					"material": 1
+				}
+			]
+		},
+		{
+			"name": "Breira_Chair_Breira_Chair_-_Logo",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 13,
+						"NORMAL": 14,
+						"TANGENT": 15,
+						"TEXCOORD_0": 16,
+						"TEXCOORD_1": 17
+					},
+					"indices": 12,
+					"material": 2
+				}
+			]
+		},
+		{
+			"name": "Breira_Chair_Brera_Chair_-_Back",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 19,
+						"NORMAL": 20,
+						"TANGENT": 21,
+						"TEXCOORD_0": 22,
+						"TEXCOORD_1": 23
+					},
+					"indices": 18,
+					"material": 3
+				}
+			]
+		},
+		{
+			"name": "Breira_Chair_Brera_Chair_-_Back_Back",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 25,
+						"NORMAL": 26,
+						"TANGENT": 27,
+						"TEXCOORD_0": 28,
+						"TEXCOORD_1": 29
+					},
+					"indices": 24,
+					"material": 3
+				}
+			]
+		},
+		{
+			"name": "Breira_Chair_Brera_Chair_-_Seat",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 31,
+						"NORMAL": 32,
+						"TANGENT": 33,
+						"TEXCOORD_0": 34,
+						"TEXCOORD_1": 35
+					},
+					"indices": 30,
+					"material": 3
+				}
+			]
+		}
+	],
+	"nodes": [
+		{
+			"name": "Breira_Chair_Breira_Chair_-_Bottom_Leg",
+			"translation": [ 265.139679, -0.500005901, -1.78523183 ],
+			"mesh": 0
+		},
+		{
+			"name": "Breira_Chair_Breira_Chair_-_Leg",
+			"translation": [ 265.139679, -0.500005901, -1.78523183 ],
+			"mesh": 1
+		},
+		{
+			"name": "Breira_Chair_Breira_Chair_-_Logo",
+			"translation": [ 265.139679, -0.500005901, -1.78523183 ],
+			"mesh": 2
+		},
+		{
+			"name": "Breira_Chair_Brera_Chair_-_Back",
+			"translation": [ 265.139679, -0.500005901, -1.78523183 ],
+			"mesh": 3
+		},
+		{
+			"name": "Breira_Chair_Brera_Chair_-_Back_Back",
+			"translation": [ 265.139679, -0.500005901, -1.78523183 ],
+			"mesh": 4
+		},
+		{
+			"name": "Breira_Chair_Brera_Chair_-_Seat",
+			"translation": [ 265.139679, -0.500005901, -1.78523183 ],
+			"mesh": 5
+		}
+	],
+	"samplers": [
+		{
+			"minFilter": 9987,
+			"magFilter": 9729
+		}
+	],
+	"scenes": [
+		{
+			"name": "Untitled",
+			"nodes": [ 0, 1, 2, 3, 4, 5 ]
+		}
+	],
+	"textures": [
+		{
+			"name": "WorldGridMaterial_BaseColor",
+			"sampler": 0,
+			"source": 0
+		},
+		{
+			"name": "WorldGridMaterial_MetallicRoughness",
+			"sampler": 0,
+			"source": 1
+		},
+		{
+			"name": "WorldGridMaterial_Normal",
+			"sampler": 0,
+			"source": 2
+		},
+		{
+			"name": "T_GLTF_M_Wood_Walnut_BaseColor",
+			"sampler": 0,
+			"source": 3
+		},
+		{
+			"name": "T_GLTF_M_Wood_Walnut_MetallicRoughness",
+			"sampler": 0,
+			"source": 4
+		},
+		{
+			"name": "T_Wood_Walnut_N",
+			"sampler": 0,
+			"source": 5
+		},
+		{
+			"name": "T_GLTF_M_Metal_Gold_BaseColor",
+			"sampler": 0,
+			"source": 6
+		},
+		{
+			"name": "T_GLTF_M_Metal_Gold_MetallicRoughness",
+			"sampler": 0,
+			"source": 7
+		},
+		{
+			"name": "T_Metal_Gold_N",
+			"sampler": 0,
+			"source": 8
+		}
+	]
+}
